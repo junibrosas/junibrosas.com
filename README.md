@@ -206,7 +206,7 @@ All the possible classes are defined above and just referenced in the `className
 2. You can reuse styles a little easier
 3. This still qualifies as purgeable HTML (assuming the class is actually used)
 
-This is however just a recommendation, the template allows you to write the components in any way you wish.
+This is however just a recommendation, the template allows you to write the components in any way you wish..
 
 ## License
 
