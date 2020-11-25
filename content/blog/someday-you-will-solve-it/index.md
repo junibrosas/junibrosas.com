@@ -1,5 +1,5 @@
 ---
-title: Someday You Will Solve It
+title: Someday you will solve it
 date: '2017-05-01T12:00:00.00Z'
 description: 'I just got a wonderful day today because finally I was able to solve a problem I thought would be impossible to solve.'
 ---

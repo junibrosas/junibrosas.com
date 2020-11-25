@@ -1,5 +1,5 @@
 ---
-title: React Redux Hooks API is out
+title: React Redux hooks API is out
 date: '2019-07-30T12:00:00.00Z'
 description: 'React is moving towards using Hooks and that is a good thing moving forward. Hooks are perfect for function based components and it makes the code much more compact and and easier to read and work with.'
 ---
