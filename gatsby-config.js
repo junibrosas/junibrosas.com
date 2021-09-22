@@ -17,7 +17,14 @@ module.exports = {
     // Content of the About Me section
     about: `I am a passionate software developer specializing in front-end web development for enterprise-level and large scale applications with over 7 years of experience in software development. Highly motivated in keeping up with the latest technologies and development principles.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    // projects: [],
+    projects: [
+      {
+        name: 'BalancingAcct',
+        description:
+          'An informative website for a client on their bookkeeping services built with React and NextJS.',
+        link: 'https://balancingacct.com',
+      }
+    ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
