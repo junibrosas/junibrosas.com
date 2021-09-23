@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/juni-brosas-549b28a0/`,
     // Content of the About Me section
-    about: `I am a passionate software developer specializing in front-end web development for enterprise-level and large scale applications with over 7 years of experience in software development. Highly motivated in keeping up with the latest technologies and development principles.`,
+    about: `I am a passionate software developer specializing in front-end web development for enterprise-level and large scale applications with over 8 years of experience in software development. Highly motivated in keeping up with the latest technologies and development principles.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -23,17 +23,17 @@ module.exports = {
         description:
           'An informative website for a client on their bookkeeping services built with React and NextJS.',
         link: 'https://balancingacct.com',
-      }
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Arcanys/Alaya',
+        name: 'Arcanys with Alaya',
         description: 'Full-Stack Developer, March 2019 - Present',
         link: 'https://alayagood.com',
       },
       {
-        name: 'Arcanys/RateMyAgent',
+        name: 'Arcanys with RateMyAgent',
         description: 'Frontend Developer, January 2018 - March 2019',
         link: 'https://www.ratemyagent.com.au',
       },
