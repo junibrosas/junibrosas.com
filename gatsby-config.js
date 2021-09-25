@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Juni Brosas',
     // Main Site Title
-    title: `Juni Brosas | Frontend Developer`,
+    title: `Juni Brosas | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `SOFTWARE DEVELOPER · FRONTEND SPECIALIST · TECHNOLOGY ENTHUSIAST · POWERLOGIC1992@GMAIL.COM`,
+    description: `SOFTWARE ENGINEER · FRONTEND SPECIALIST · TECHNOLOGY ENTHUSIAST · powerlogic1992@gmail.com`,
     // Optional: Twitter account handle
     author: `@justignite`,
     // Optional: Github account URL
@@ -29,7 +29,7 @@ module.exports = {
     experience: [
       {
         name: 'Arcanys with Alaya',
-        description: 'Full-Stack Developer, March 2019 - Present',
+        description: 'Full-Stack Engineer, March 2019 - Present',
         link: 'https://alayagood.com',
       },
       {

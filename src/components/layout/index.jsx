@@ -7,8 +7,12 @@ const classes = {
 };
 
 const Layout = ({ children }) => {
+  const googleTagManager = `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-568NJQ2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>`;
+
   return (
-    <div className={classes.outerWrapper}>
+    <div id="layout" className={classes.outerWrapper}>
+      <noscript>{googleTagManager}</noscript>
       <svg
         className={classes.svg}
         width="404"
