@@ -58,7 +58,7 @@ module.exports = {
       {
         name: 'Frontend',
         description:
-          'JavaScript (ES6+), React, Typescript, Angular, NextJS, Webpack',
+          'JavaScript (ES6+), React, Typescript, Angular, NextJS, Webpack, Storybook',
       },
       {
         name: 'Backend',
