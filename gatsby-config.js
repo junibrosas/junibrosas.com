@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'BalancingAcct',
         description:
-          'An informative website for a client on their bookkeeping services built with React and NextJS.',
+          'An informative website for bookkeeping services built with ReactJS and NextJS.',
         link: 'https://balancingacct.com',
       },
     ],
